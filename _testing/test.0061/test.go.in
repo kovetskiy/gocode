@@ -1,0 +1,10 @@
+package main
+
+import "fmt"
+
+type Some struct {
+}
+
+func NewSome() {
+	fmt
+}
